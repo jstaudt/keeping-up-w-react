@@ -1,1 +1,1 @@
-This is a React Starter Project for use in Stephen Grider's courses on Udemy.
+Keeping up with react: router, context, hooks, etc.
